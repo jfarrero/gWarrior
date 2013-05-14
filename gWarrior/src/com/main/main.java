@@ -33,7 +33,7 @@ public class main extends BaseGameActivity implements IScrollDetectorListener, I
 	private ZoomCamera mCamera;
 	private Sprite background;
 	private gamePlayer singlePlayer;
-	
+	private int hola=0;
 	private long startTime=System.currentTimeMillis();
 	
 	// Definicion de objetos del motor AndEngine
